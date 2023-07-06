@@ -1,1 +1,2 @@
 # EDA
+I have performed an exploratory data analysis (EDA) on the Zomato dataset obtained from Kaggle. Throughout the analysis, I utilized various libraries such as Matplotlib, Pandas, NumPy, and Seaborn to extract insights from the data. These libraries enabled me to visualize the data, manipulate it efficiently, and conduct statistical analyses to uncover patterns and trends within the Zomato dataset.
